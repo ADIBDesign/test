@@ -1,0 +1,35 @@
+{
+    "source": ["tokens/**/*.json"],
+    "platforms": {
+      "css": {
+        "transformGroup": "css",
+        "buildPath": "build/css/",
+        "files": [{
+          "destination": "variables.css",
+          "format": "css/variables"
+        }]
+      },
+      "android": {
+        "transformGroup": "android",
+        "buildPath": "build/android/",
+        "files": [{
+          "destination": "colors.xml",
+          "format": "android/colors"
+        }]
+      },
+      "ios-swift-separate-enums": {
+        "transformGroup": "ios-swift-separate",
+        "buildPath": "build/ios-swift/",
+        "files": [{
+          "destination": "StyleDictionaryColor.swift",
+          "format": "ios-swift/enum.swift",
+          "className": "StyleDictionaryColor",
+          "filter": {
+            "attributes": {
+              "category": "color"
+            }
+          }
+        }]
+      }
+    }
+  }

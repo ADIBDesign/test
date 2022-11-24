@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Wed, 23 Nov 2022 14:39:01 GMT
+-->
+<resources>
+  <color name="color_semantic_error_one">#ffda0027</color>
+  <color name="color_semantic_error_two">#ffffe2e8</color>
+  <color name="color_semantic_success_one">#ff2d9e00</color>
+  <color name="color_semantic_success_two">#ffe9fde1</color>
+  <color name="color_semantic_warning_one">#ffff9f00</color>
+  <color name="color_semantic_warning_two">#fffff5e3</color>
+  <color name="color_semantic_info_one">#ff0075b2</color>
+  <color name="color_semantic_info_two">#ffebf8ff</color>
+  <color name="color_primitive_white">#ffffffff</color>
+  <color name="color_primitive_black">#ff000000</color>
+  <color name="color_primitive_grey_one">#ff333333</color>
+  <color name="color_primitive_grey_two">#ff757575</color>
+  <color name="color_primitive_grey_three">#ffcccccc</color>
+  <color name="color_primitive_grey_four">#fff2f2f2</color>
+  <color name="color_primitive_grey_five">#fffafafa</color>
+  <color name="color_interaction">#ff0085ff</color>
+  <color name="color_text_base">#ff000000</color>
+  <color name="color_text_subdued">#ff757575</color>
+  <color name="color_background">#ffffffff</color>
+  <color name="color_brand_primary_one">#ff009ee3</color>
+  <color name="color_brand_primary_two">#ff003978</color>
+  <color name="color_brand_secondary_one">#ffc6c6c5</color>
+  <color name="color_brand_secondary_two">#ff8c704b</color>
+  <color name="color_brand_secondary_three">#ff00c1de</color>
+  <color name="color_button_background">#ff009ee3</color>
+  <color name="color_button_text">#ffffffff</color>
+  
+</resources>
