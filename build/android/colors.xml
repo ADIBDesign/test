@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 24 Nov 2022 08:38:18 GMT
+  Generated on Thu, 24 Nov 2022 12:12:46 GMT
 -->
 <resources>
   <color name="color_semantic_error_one">#ffda0027</color>
@@ -29,7 +29,7 @@
   <color name="color_brand_secondary_one">#ffc6c6c5</color>
   <color name="color_brand_secondary_two">#ff8c704b</color>
   <color name="color_brand_secondary_three">#ff00c1de</color>
-  <color name="color_button_background">#ffda0027</color>
-  <color name="color_button_text">#ffffffff</color>
+  <color name="color_button_background">#fffafafa</color>
+  <color name="color_button_text">#ff000000</color>
   
 </resources>

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 24 Nov 2022 08:38:18 GMT
+ * Generated on Thu, 24 Nov 2022 12:12:46 GMT
  */
 
 :root {
@@ -28,9 +28,9 @@
   --color-brand-secondary-one: #c6c6c5;
   --color-brand-secondary-two: #8c704b;
   --color-brand-secondary-three: #00c1de;
-  --color-button-background: #da0027;
-  --color-button-text: #ffffff;
-  --button-radius: 60px;
+  --color-button-background: #fafafa;
+  --color-button-text: #000000;
+  --button-radius: 8px;
   --button-height: 68px;
   --button-width: 250px;
 }
